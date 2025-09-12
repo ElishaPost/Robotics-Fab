@@ -1,14 +1,22 @@
 # Pickleball Net STL Files
 
-These STL files are parts of a **pickleball net** that we designed and made.  
+This folder contains **STL files** for a pickleball net that we designed and made.  
 
-Each file in this folder corresponds to a component of the net:
+These files are ready for 3D printing or use in CAD software.
 
-- **net_pole.stl** – Vertical pole for the net  
-- **net_connector.stl** – Connector piece for the net frame  
-- **net_base.stl** – Base support for stability  
+## How to Use
 
-Feel free to use these files for personal projects or reference.
+1. **Download the files**  
+   - You can download individual STL files or clone the repository.
+
+2. **Use in 3D printing or CAD software**  
+   - Import the STL files into your slicer or CAD program.  
+   - Adjust scaling, orientation, and supports as needed.
+
+## License
+
+These files are free for personal and educational use. See the main repository LICENSE for details.
 
 ---
+
 Made with ❤️ using Autodesk Fusion 360.
