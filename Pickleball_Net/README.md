@@ -2,7 +2,7 @@
 
 This folder contains **STL files** for a pickleball net that we designed and made.  
 
-These files are ready for 3D printing or use in CAD software.
+> ⚠️ Note: These are STL files and must be sliced in a 3D printing slicer (like Cura, PrusaSlicer, or Simplify3D) to generate G-code before printing.
 
 ## How to Use
 
@@ -11,7 +11,7 @@ These files are ready for 3D printing or use in CAD software.
 
 2. **Use in 3D printing or CAD software**  
    - Import the STL files into your slicer or CAD program.  
-   - Adjust scaling, orientation, and supports as needed.
+   - Adjust scaling, orientation, and supports as needed before slicing and printing.
 
 ## License
 
